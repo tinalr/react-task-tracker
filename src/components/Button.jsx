@@ -2,9 +2,9 @@
 
 const Button = ({ color, text }) => {
   return (
-    <Button style={{ backgroundColor: color }} className='btn'>
+    <button style={{ backgroundColor: color }} className='btn'>
       {text}
-    </Button>
+    </button>
   )
 }
 

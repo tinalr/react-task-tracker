@@ -8,7 +8,7 @@ const Header = ({ title }) => {
         <h1 style={headingStyle}>
           Task Tracker: {title} List
         </h1>
-        <Button color='green' text='Add Item' />
+        <Button color='green' text='add item'/>
       </header>
     </>
   );

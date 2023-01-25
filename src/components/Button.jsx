@@ -8,4 +8,6 @@ const Button = ({ color, text }) => {
   )
 }
 
+
+
 export default Button;
